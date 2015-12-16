@@ -1,2 +1,2 @@
 # preferred_numbers
-A python module to compute preferred numbers (see the readme).
+This module can be used to obtain the *preferred number* according to Charles Renard (https://en.wikipedia.org/wiki/Preferred_number).
